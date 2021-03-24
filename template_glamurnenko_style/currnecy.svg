@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 35" width="145" height="35">
+	<defs>
+		<image  width="145" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJEAAAAjAQMAAACuFHoeAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAA9JREFUeJxjYBgFo2BoAgACvAABuGEXAAAAAABJRU5ErkJggg=="/>
+		<image  width="145" height="35" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJEAAAAjBAMAAABm9PVuAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAA//AAxLgApJoA9ugAZ2EA7N4AR0MALywA2MsAgnoAz8MA49YAuq8AsKYAl0wCYwAAATlJREFUeJzt1jFrwkAUB/BXQ1EylLwoQjslQ/YK/QIW2sHJwS8gFAqdnG52dXDoJp2S1U/gN+jX6kVy573/q9aClA55kOVx/Lj3v0sIERQz61YCnSvd2jfDSuyjW4ns1Cuw1Uqt9GspG/2h9ETUAemVeu8g3RHNUCopRolGUronMlIaTLW0cVvwUsSlkdIzb1ZSSnsfD3MpDaYGp4s4W2FOWQVS9w1zSrvzH6XUzns9FlKftiiVLpVAavZ5SrI5VVIaLsidSyPdLnXivg5nZ88ll9IkcqsCycd7dE82uWZVOF2scuIzpGIXq+k6ak+5lDibqem4mID0iGf3nVRW/AJSXnxGcrrhwtiLd3q6+o7DzaxnMVKyyeHboqU+0VpKqY/3INmbcTMOJV//6KtypuSqlVrpiHSxf7ovRTav0XHvPjMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<use id="Слой 1" href="#img2" x="0" y="0" />
+</svg>
